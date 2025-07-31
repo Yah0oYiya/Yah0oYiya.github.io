@@ -10,4 +10,3 @@
 </body>
 </html>
 
-<p>To force<br> line breaks<br> in a text,<br> use the br<br> element.</p>
